@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolacentumep00lamb/epistolacentumep00lamb_0009.png"; bbox 0 0 2372 3760; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 380 1000 1773 1292">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 380 1000 1773 1292">
+     <span class='ocr_line' id='line_1_1' title="bbox 748 1000 1411 1116; baseline -0.003 -38"><span class='ocrx_word' id='word_1_1' title='bbox 748 1000 1411 1116; x_wconf 62' lang='grc' dir='ltr'><strong>ΕΠΙΣΤΟΛΗ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 380 1199 1773 1292; baseline -0.005 -7"><span class='ocrx_word' id='word_1_2' title='bbox 380 1211 914 1285; x_wconf 79' lang='lat' dir='ltr'><strong>‘EKATON</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1001 1199 1773 1292; x_wconf 69' lang='grc' dir='ltr'>ΕΠΙΣΚΟΠΩΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 1503 1995 1595">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 1503 1995 1595">
+     <span class='ocr_line' id='line_1_3' title="bbox 175 1503 1995 1595; baseline -0.008 -20"><span class='ocrx_word' id='word_1_4' title='bbox 175 1515 280 1575; x_wconf 88' lang='grc' dir='ltr'>Ἐν</span> <span class='ocrx_word' id='word_1_5' title='bbox 308 1514 564 1595; x_wconf 71' lang='grc' dir='ltr'>Ἀγγλίᾳ</span> <span class='ocrx_word' id='word_1_6' title='bbox 596 1512 1146 1594; x_wconf 82' lang='grc' dir='ltr'>συνηθροισμένων,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1180 1511 1239 1569; x_wconf 90' lang='grc' dir='ltr'>ἐν</span> <span class='ocrx_word' id='word_1_8' title='bbox 1268 1507 1555 1585; x_wconf 82' lang='grc' dir='ltr'>Παλατίῳ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1586 1503 1995 1583; x_wconf 78' lang='grc' dir='ltr'><em>Λαμβηθανῷ,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 566 1671 1622 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 566 1671 1622 1758">
+     <span class='ocr_line' id='line_1_4' title="bbox 566 1671 1622 1758; baseline -0.007 -20"><span class='ocrx_word' id='word_1_10' title='bbox 566 1678 708 1758; x_wconf 85' lang='grc' dir='ltr'>μηνὶ</span> <span class='ocrx_word' id='word_1_11' title='bbox 736 1676 987 1757; x_wconf 81' lang='grc' dir='ltr'><strong>Ἰουλίῳ,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1022 1676 1134 1737; x_wconf 80' lang='grc' dir='ltr'>ἔτει</span> <span class='ocrx_word' id='word_1_13' title='bbox 1163 1673 1346 1754; x_wconf 44' lang='grc' dir='ltr'><em>Ιαωοή</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1382 1671 1622 1753; x_wconf 75' lang='grc'>(1878).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 434 2157 1755 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 434 2157 1755 2200">
+     <span class='ocr_line' id='line_1_5' title="bbox 434 2157 1755 2200; baseline -0.008 0"><span class='ocrx_word' id='word_1_15' title='bbox 434 2163 855 2200; x_wconf 81' lang='grc' dir='ltr'>ΜΕΤΑΦΡΑΣΘΕῙΣΑ</span> <span class='ocrx_word' id='word_1_16' title='bbox 895 2158 1288 2196; x_wconf 82' lang='grc' dir='ltr'>ΕΠῙΊῬΕΠΟΝΤΟΣ</span> <span class='ocrx_word' id='word_1_17' title='bbox 1327 2157 1755 2194; x_wconf 77' lang='grc' dir='ltr'><strong>ΣΕΒΑΣΜΙΩΤΑΤΟΎ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 350 2333 1826 2400">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 350 2333 1826 2400">
+     <span class='ocr_line' id='line_1_6' title="bbox 350 2333 1826 2400; baseline -0.007 -2"><span class='ocrx_word' id='word_1_18' title='bbox 350 2339 1104 2400; x_wconf 81' lang='grc' dir='ltr'><em>ΑΡΧΙΕΠΙΣΚΟΠΟΥ</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1184 2333 1826 2390; x_wconf 81' lang='grc' dir='ltr'><em>ΚΑΝΤΟΥΑΡΙΑΣ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
